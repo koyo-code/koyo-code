@@ -10,4 +10,4 @@ Hello,Web Corder👐
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koyo-code&theme=dracula)
 
-![](https://skillicons.dev/icons?i=html,css,scss,js,ts,threejs,react,nextjs,astro,php,laravel,github,vscode)
+![](https://skillicons.dev/icons?i=html,css,js,ts,threejs,react,nextjs,php,github,vscode)
