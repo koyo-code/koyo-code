@@ -1,8 +1,4 @@
-![](https://komarev.com/ghpvc/?username=koyo-code&color=ff69b4&label=PROFILE+VIEWS)
-
-# PROFILE
-
-Hello,Web Corder👐
+# Hello, I'm Koyo.
 
 ## INFO
 
