@@ -7,7 +7,7 @@ I enjoy web design and development.👨‍💻
 <img alt="Top Langs" height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyo-code&layout=compact&show_icons=true" />
 </td>
 <td>
-<img alt="Top Langs" height="150px" width="100%" src="https://skillicons.dev/icons?i=react,ts,threejs,nextjs,laravel,django,tailwind,github,vercel&perline=3" />
+<img alt="Top Langs" height="150px" width="100%" src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,laravel,django,tailwind,github,vercel&perline=3" />
 </td>
 </tr>
 </table>
