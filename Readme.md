@@ -1,5 +1,5 @@
 # Hi, I'm Koyo.
-I enjoy web design and development👨‍💻
+I enjoy web development👨‍💻
 
 <table>
 <tr>
