@@ -1,5 +1,6 @@
 # Hi, I'm Koyo.
 I enjoy web development👨‍💻
+Type Script👊
 
 <table>
 <tr>
